@@ -1,0 +1,107 @@
+.header_title{
+    justify-content: left;
+    display: flex;
+    flex-direction: row;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    width: 50%;
+}
+.MCTitle{
+    display: flex;
+    flex-direction: row;
+
+}
+.MCTitle2{
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-right: 30px;
+    justify-content: right;
+    
+}
+.save{
+    border: none;
+    width: 50px;
+    height: 20px;
+    background-color: white;
+}
+.Delete{
+    border: none;
+    width: 50px;
+    height: 20px;
+    background-color: white;
+}
+.ql-editor{
+    height: 100vh;
+
+}
+.None{
+    display: none;
+}
+
+.no-active-note{
+    display:flex;
+    justify-content: center;
+    padding-top: 200px;
+    font-size: 30px;
+    color:rgb(195, 199, 202)
+    
+
+
+}
+
+/*#title{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    border: none;
+    outline: none;*
+    background-color: white;
+
+}*/
+.time{
+    display: flex;
+    border: none;
+
+}
+#title{
+    border: none;
+}
+.Edit{
+    border: none;
+    width: 50px;
+    height: 20px;
+    background-color: white;
+}
+.TitleRead{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+.TimeRead{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 10px;
+    width: 100%;
+    border-bottom: 1px solid #e0e0e0;
+}
+.TitleRead1{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: bolder;
+    border: none;
+}
+.time{
+    display: flex;
+    width: 25%;
+    padding-left: 10px;
+}
+.ReadContent{
+    padding-left: 10px;
+}
